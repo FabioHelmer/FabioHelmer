@@ -15,8 +15,6 @@
   <img align="right" alt="fabio-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif">
 </div>
   
-  
-  ##
  
 <div style="display: inline_block"><br>
     <a href="https://www.instagram.com/ffabio.helmer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
